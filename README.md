@@ -1,5 +1,5 @@
 # Smart-Wearables-Health-Analysis
-A data science project leveraging wearable technology to provide personalized health guidance through machine learning models.
+A data science project leveraging wearable technology data to provide personalized health guidance using machine learning models. This project explores the use of health metrics collected from wearable devices, such as Apple Watches, to predict fitness levels and analyze the impact of gender and activity on exercise intensity.
 # Project Overview
 This project focuses on utilizing data from wearable technology to predict Intensity Karvonen, a key metric for prescribing personalized exercise intensities. By using data science techniques, we aim to create predictive models that provide personalized health recommendations, transforming traditional fitness assessments into continuous and dynamic health insights.
 # Dataset
